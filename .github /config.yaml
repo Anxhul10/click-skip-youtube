@@ -1,4 +1,4 @@
-version: 0
+version: 1
 
 automation:
-  commit_sign: true
+  require_sign_commit: true
