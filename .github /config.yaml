@@ -1,6 +1,4 @@
-version: 1
+version: 0
 
 automation:
-  commit_sign:
-    require_gpg: true
-    require_dco: true
+  commit_sign: true
